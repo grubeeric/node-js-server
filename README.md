@@ -1,5 +1,5 @@
 
-Basic nodejs server. Can handle http requests and response for time stamps and return JSON data. 
+Basic nodejs server. Can handle http requests and response for time stamps and return JSON data. Doesn't really do much beyond handling these requests. Made for my own knowledge on NodeJS http servers as well as handling asynchronous tasks in series.
 
 ## Running the server
 
